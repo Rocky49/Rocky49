@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m Rocky
-- 👀 I’m interested in Programming
+- 👀 Just your random programmer
+- ❤️ Love to Swim, Cook and Read
 - 🌱 I’m currently learning Docker, NestJS
 - 📫 reach me at: rockyshinde91@gmail.com
