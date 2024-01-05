@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Rocky49/Rocky49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m Rocky
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Docker, NestJS
+- 📫 reach me at: rockyshinde91@gmail.com
